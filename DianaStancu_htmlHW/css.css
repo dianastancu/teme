@@ -80,7 +80,8 @@
 }
 
 #form_container{
-  padding: 1rem;
+  text-align: left;
+  padding: 1rem 0 1rem 1rem;
 }
 
 .form_subtitle{
